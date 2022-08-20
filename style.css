@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;900&family=Manrope:wght@600;700&display=swap');
+
+body {
+    background-color:white;
+    margin: 0%;
+    padding: 0%;
+}
+img {
+    width: 100%;
+}
+.text {
+    font-family: 'Lexend Giga';
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+    font-weight: 400px;
+}
+article {
+    border: 2px double #CAF0F9;
+}
+.article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+    border: 2px double #CAF0F9;
+    background-color:#DFF7FF;
+    padding-bottom: 100px;
+}
+.but1 {
+    display: inline-block;
+    background: #CAF0F9;
+    border-radius: 305px;
+    width: 260px;
+    height: 70px;
+    color: black;
+    font-size:  25px;
+}
+.but2 {
+    display: inline-block;
+    background: #FFE1E1;
+    border-radius: 305px;
+    width: 260px;
+    height: 70px;
+    color: black;
+    font-size:  25px;
+}
+.knopki {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 50px;
+}
+.apple_wrapper,.grusha_wrapper,.mango_wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.apple_wrapper {
+    margin-top: 45px;
+}
+.mango_wrapper {
+    margin-top: 70px;
+}
+.fruits {
+    display: flex;
+    justify-content: center;
+    
+}
+.infa {
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 31px;
+    margin: 0 auto ;
+    width: 1160px;
+    height: 516px;
+    background-color: white;
+}
+.mandlogo {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 900;
+    font-size: 65.0342px;
+    line-height: 146px;
+    margin-right: 200px;
+}
+.mandarin {
+    justify-content: flex-end;
+}
+.mandarininfa {
+    width: 565px;
+    height: 312px;
+    font-weight: 900;
+    font-size: 34.6555px;
+    line-height: 78px;
+}
+.fotomandarin {
+    display: flex;
+    justify-content: flex-start;
+    width: 507.77px;
+    height: 390px;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.button {
+    display: flex;
+    padding: 5px 15px;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    user-select: none;
+}
+.img {
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    margin-left: 55px;
+    margin-top: 150px;
+    width: 30%;
+}
+.article3 {
+    padding-bottom: 330px;
+}
+footer {
+    width: 1520px;
+    height: 181px;
+    background: #EBEBEB;
+}
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding-top: 100px;
+    width: 562px;
+    height: 65px;
+    
+}
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px;
+    gap: 15.78px;
+    margin-left: 1300px;
+    width: 50px;
+    height: 25px;
+}
+
+
+
+
+
+
